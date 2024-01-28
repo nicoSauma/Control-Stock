@@ -1,0 +1,287 @@
+# depslib dependency file v1.0
+1700711458 source:c:\users\hp\desktop\pruebamain\arboles.c
+	"arboles.h"
+
+1700711497 c:\users\hp\desktop\pruebamain\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1700722783 source:c:\users\hp\desktop\pruebamain\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arboles.h"
+	"lista.h"
+	"filas.h"
+	"registroAndInicio.h"
+	"archivoAndLDA.h"
+
+1700716015 source:c:\users\hp\desktop\pruebamain\lista.c
+	"lista.h"
+
+1700711413 c:\users\hp\desktop\pruebamain\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"arboles.h"
+
+1700720866 source:c:\users\hp\desktop\pruebamain\filas.c
+	"filas.h"
+	<strings.h>
+
+1700720906 c:\users\hp\desktop\pruebamain\filas.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"lista.h"
+
+1700709118 source:c:\users\hp\desktop\pruebamain\registroandinicio.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"registroAndInicio.h"
+
+1700718624 c:\users\hp\desktop\pruebamain\registroandinicio.h
+
+1700722481 source:c:\users\hp\desktop\pruebamain\archivoandlda.c
+	"archivoAndLDA.h"
+	<strings.h>
+	"lista.h"
+
+1700721056 c:\users\hp\desktop\pruebamain\archivoandlda.h
+	"lista.h"
+
+1700693458 source:c:\users\hp\desktop\6am\pruebamain\arboles.c
+	"arboles.h"
+
+1700693496 c:\users\hp\desktop\6am\pruebamain\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1701187916 source:c:\users\hp\desktop\6am\pruebamain\archivoandlda.c
+	"archivoAndLDA.h"
+	<strings.h>
+	"lista.h"
+	"arboles.h"
+
+1701197243 c:\users\hp\desktop\6am\pruebamain\archivoandlda.h
+	"lista.h"
+
+1701141684 c:\users\hp\desktop\6am\pruebamain\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"arboles.h"
+
+1700728764 source:c:\users\hp\desktop\6am\pruebamain\filas.c
+	"filas.h"
+	<strings.h>
+	"lista.h"
+	"arboles.h"
+
+1700702906 c:\users\hp\desktop\6am\pruebamain\filas.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"lista.h"
+
+1701140609 source:c:\users\hp\desktop\6am\pruebamain\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	<strings.h>
+
+1701187421 source:c:\users\hp\desktop\6am\pruebamain\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arboles.h"
+	"lista.h"
+	"filas.h"
+	"registroAndInicio.h"
+	"archivoAndLDA.h"
+
+1700700624 c:\users\hp\desktop\6am\pruebamain\registroandinicio.h
+
+1700691118 source:c:\users\hp\desktop\6am\pruebamain\registroandinicio.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"registroAndInicio.h"
+
+1701180640 source:c:\users\hp\desktop\tp28.11\arboles.c
+	"arboles.h"
+
+1701180640 c:\users\hp\desktop\tp28.11\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1701180640 source:c:\users\hp\desktop\tp28.11\filas.c
+	"filas.h"
+	<strings.h>
+	"lista.h"
+	"arboles.h"
+
+1701180640 c:\users\hp\desktop\tp28.11\filas.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"lista.h"
+
+1701222992 c:\users\hp\desktop\tp28.11\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"arboles.h"
+
+1701288856 source:c:\users\hp\desktop\tp28.11\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	<strings.h>
+
+1701293171 source:c:\users\hp\desktop\tp28.11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arboles.h"
+	"lista.h"
+	"filas.h"
+	"registroAndInicio.h"
+	"archivoAndLDA.h"
+
+1701180642 c:\users\hp\desktop\tp28.11\registroandinicio.h
+
+1701293171 c:\users\hp\desktop\tp28.11\archivoandlda.h
+	"lista.h"
+
+1701180642 source:c:\users\hp\desktop\tp28.11\registroandinicio.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"registroAndInicio.h"
+
+1701293310 source:c:\users\hp\desktop\tp28.11\archivoandlda.c
+	"archivoAndLDA.h"
+	<strings.h>
+	"lista.h"
+	"arboles.h"
+
+1701297927 source:c:\users\imanol\desktop\tp18_30hs\arboles.c
+	"arboles.h"
+
+1701162640 c:\users\imanol\desktop\tp18_30hs\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1701309445 source:c:\users\imanol\desktop\tp18_30hs\archivoandlda.c
+	"archivoAndLDA.h"
+	<strings.h>
+	"lista.h"
+	"arboles.h"
+
+1701309445 c:\users\imanol\desktop\tp18_30hs\archivoandlda.h
+	"lista.h"
+
+1701294106 c:\users\imanol\desktop\tp18_30hs\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"arboles.h"
+
+1701309507 source:c:\users\imanol\desktop\tp18_30hs\filas.c
+	"filas.h"
+	<strings.h>
+	"lista.h"
+	"arboles.h"
+
+1701306812 c:\users\imanol\desktop\tp18_30hs\filas.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"lista.h"
+	"archivoAndLDA.h"
+
+1701270856 source:c:\users\imanol\desktop\tp18_30hs\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	<strings.h>
+
+1701162642 source:c:\users\imanol\desktop\tp18_30hs\registroandinicio.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"registroAndInicio.h"
+
+1701162642 c:\users\imanol\desktop\tp18_30hs\registroandinicio.h
+
+1701309445 source:c:\users\imanol\desktop\tp18_30hs\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arboles.h"
+	"lista.h"
+	"filas.h"
+	"registroAndInicio.h"
+	"archivoAndLDA.h"
+
+1701279926 source:c:\users\hp\desktop\finalfinal\tp18_30hs\arboles.c
+	"arboles.h"
+
+1701144640 c:\users\hp\desktop\finalfinal\tp18_30hs\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1701312487 source:c:\users\hp\desktop\finalfinal\tp18_30hs\archivoandlda.c
+	"archivoAndLDA.h"
+	<strings.h>
+	"lista.h"
+	"arboles.h"
+
+1701291444 c:\users\hp\desktop\finalfinal\tp18_30hs\archivoandlda.h
+	"lista.h"
+
+1701276106 c:\users\hp\desktop\finalfinal\tp18_30hs\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"arboles.h"
+
+1701311500 source:c:\users\hp\desktop\finalfinal\tp18_30hs\filas.c
+	"filas.h"
+	<strings.h>
+	"lista.h"
+	"arboles.h"
+
+1701288812 c:\users\hp\desktop\finalfinal\tp18_30hs\filas.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"lista.h"
+	"archivoAndLDA.h"
+
+1701252856 source:c:\users\hp\desktop\finalfinal\tp18_30hs\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	<strings.h>
+
+1701313691 source:c:\users\hp\desktop\finalfinal\tp18_30hs\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arboles.h"
+	"lista.h"
+	"filas.h"
+	"registroAndInicio.h"
+	"archivoAndLDA.h"
+
+1701144642 c:\users\hp\desktop\finalfinal\tp18_30hs\registroandinicio.h
+
+1701144642 source:c:\users\hp\desktop\finalfinal\tp18_30hs\registroandinicio.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"registroAndInicio.h"
+
